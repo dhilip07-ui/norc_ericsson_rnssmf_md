@@ -1,0 +1,5 @@
+{
+    "ericsson-nssmf_ENDPOINT_HOST": "https://doc-norc-mock.apps.tc0133.tre.nsn-rdnet.net/",
+    "ericsson-nssmf_ENDPOINT_PORT": "9076",
+    "ericsson-nssmf_ENDPOINT_URI": "/"
+}
