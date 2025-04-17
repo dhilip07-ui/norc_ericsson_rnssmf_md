@@ -1,0 +1,6 @@
+{
+    "id": "ericsson-nssmf-interface-type",
+    "name": "Ericsson NSSMF Interface Type",
+    "protocol": "REST",
+    "version": "1.0"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ericsson-nssmf-auth",
+    "name": "Ericsson NSSMF Authentication",
+    "authenticationType": "BASIC",
+    "credentials": {
+        "username": "${env.ERICSSON_NSSMF_USERNAME}",
+        "password": "${env.ERICSSON_NSSMF_PASSWORD}"
+    }
+}

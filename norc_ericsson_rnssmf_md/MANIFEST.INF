@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ericsson NSSMF Mechanism Driver
+Bundle-SymbolicName: com.nokia.dos.md.ericsson.nssmf
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.nokia.dos.md.ENSSMFMechanismDriver
+Bundle-Vendor: Nokia
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.core.runtime,
+ com.nokia.dos.domainadaptation;bundle-version="24.5.262",
+ com.nokia.dos.domainadaptation.mechanismdriver;bundle-version="24.5.262"
+Export-Package: com.nokia.dos.md,
+ com.nokia.dos.md.auth,
+ com.nokia.dos.md.model,
+ com.nokia.dos.md.polling,
+ com.nokia.dos.md.utils
+Service-Component: OSGI-INF/*.xml

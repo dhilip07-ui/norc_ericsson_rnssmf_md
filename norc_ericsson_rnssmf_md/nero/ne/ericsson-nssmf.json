@@ -1,0 +1,6 @@
+{
+    "id": "ericsson-nssmf",
+    "name": "Ericsson NSSMF",
+    "networkElementTypeId": "ericsson-nssmf-type",
+    "neInterfaceId": "ericsson-nssmf-interface"
+}
